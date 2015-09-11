@@ -1,0 +1,23 @@
+尾部的零
+设计一个算法，计算出n阶乘中尾部零的个数
+样例
+11! = 39916800，因此应该返回 2
+
+挑战
+O(logN)的时间复杂度
+
+
+class Solution {
+    /*
+     * param n: As desciption
+     * return: An integer, denote the number of trailing zeros in n!
+     */
+    public long trailingZeros(long n) {
+        long num = 0;
+        for(long i = 5;n/i >= 1;i *= 5){
+            num +=n/i;
+        }
+        return num;
+    }
+    
+};
