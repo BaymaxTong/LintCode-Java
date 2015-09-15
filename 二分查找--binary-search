@@ -1,0 +1,38 @@
+二分查找
+给定一个排序的整数数组（升序）和一个要查找的整数target，用O(logn)的时间查找到target第一次出现的下标（从0开始），
+如果target不存在于数组中，返回-1。
+
+样例
+在数组 [1, 2, 3, 3, 4, 5, 10] 中二分查找3，返回2。
+
+挑战
+如果数组中的整数个数超过了2^32，你的算法是否会出错？
+
+class Solution {
+    /**
+     * @param nums: The integer array.
+     * @param target: Target to find.
+     * @return: The first position of target. Position starts from 0.
+     */
+    public int binarySearch(int[] nums, int target) {
+        if(nums == null||nums.length ==0){
+            return -1;
+        }
+        int start = 0,end = nums.length -1;
+        while(start+1<end){
+            int mid = (start+end)/2;
+            if(target > nums[mid]){
+                start = mid;
+            }else{
+                end = mid;
+            }
+        }
+        if(nums[start] == target){
+            return start;
+        }
+        if(nums[end] == target){
+            return end;
+        }
+        return -1;
+    }
+}
