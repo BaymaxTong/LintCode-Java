@@ -1,0 +1,35 @@
+恢复旋转排序数组
+给定一个旋转排序数组，在原地恢复其排序。
+样例
+[4, 5, 1, 2, 3] -> [1, 2, 3, 4, 5]
+
+挑战
+使用O(1)的额外空间和O(n)时间复杂度
+
+public class Solution {
+    /**
+     * @param nums: The rotated sorted array
+     * @return: void
+     */
+    public ArrayList recoverRotatedSortedArray(ArrayList<Integer> nums) {
+        //Collections.sort(nums);
+        int offset = 0;
+        for(int i = 0;i < nums.size()-1;i++){
+            if(nums.get(i) > nums.get(i+1)){
+                offset = i+1;
+                break;
+            }
+        }
+        if(offset == 0){
+           return nums; 
+        }else{
+            for(int i = 0;i < offset;i++){
+                int temp = nums.get(0);
+                nums.remove(0);
+                nums.add(temp);
+            }
+        }
+        return nums;
+    }
+    
+}
