@@ -1,0 +1,55 @@
+在二叉查找树中插入节点
+给定一棵二叉查找树和一个新的树节点，将节点插入到树中。
+
+你需要保证该树仍然是一棵二叉查找树。
+
+样例
+给出如下一棵二叉查找树，在插入节点6之后这棵二叉查找树可以是这样的：
+
+  2             2
+ / \           / \
+1   4   -->   1   4
+   /             / \ 
+  3             3   6
+挑战
+能否不使用递归？
+
+/**
+ * Definition of TreeNode:
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left, right;
+ *     public TreeNode(int val) {
+ *         this.val = val;
+ *         this.left = this.right = null;
+ *     }
+ * }
+ */
+public class Solution {
+    /**
+     * @param root: The root of the binary search tree.
+     * @param node: insert this node into the binary search tree
+     * @return: The root of the new binary search tree.
+     */
+    public TreeNode insertNode(TreeNode root, TreeNode node) {
+        // write your code here
+        if(root == null){
+            return node;
+        }
+        TreeNode curt = root;
+        while(curt != node){
+            if(node.val < curt.val){
+                if(curt.left == null){
+                    curt.left = node;
+                }
+                curt = curt.left;
+            }else{
+                if(curt.right == null){
+                    curt.right = node;
+                }
+                curt = curt.right;
+            }
+        }
+        return root;
+    }
+}
