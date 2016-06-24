@@ -18,6 +18,36 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [用两个栈实现队列][6]
 
+[旋转数组的最小数字]
+
+[斐波那契数列]
+
+[跳台阶]
+
+[变态跳台阶]
+
+[矩形覆盖]
+
+[二进制中1的个数]
+
+[数值的整数次方]
+
+[调整数组顺序使奇数位于偶数前面]
+
+[链表中倒数第k个结点]
+
+[合并两个排序的链表]
+
+[树的子结构]
+
+[二叉树的镜像]
+
+[顺时针打印矩阵]
+
+[包含min函数的栈]
+
+
+
 
   [1]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md
   [2]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md
