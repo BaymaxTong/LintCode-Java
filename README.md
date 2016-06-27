@@ -22,7 +22,7 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [斐波那契数列][8]
 
-[跳台阶]
+[跳台阶][9]
 
 [变态跳台阶]
 
@@ -57,3 +57,4 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [6]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md 
   [7]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md
   [8]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md 
+  [9]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md
