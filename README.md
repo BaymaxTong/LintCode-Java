@@ -26,7 +26,7 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [变态跳台阶][10]
 
-[矩形覆盖]
+[矩形覆盖][11]
 
 [二进制中1的个数]
 
@@ -66,3 +66,4 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [8]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md 
   [9]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md
   [10]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md
+  [11]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md
