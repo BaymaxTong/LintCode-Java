@@ -28,7 +28,7 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [矩形覆盖][11]
 
-[二进制中1的个数]
+[二进制中1的个数][12]
 
 [数值的整数次方]
 
@@ -67,3 +67,4 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [9]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E8%B7%B3%E5%8F%B0%E9%98%B6.md
   [10]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md
   [11]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md
+  [12]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md
