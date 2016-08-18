@@ -44,7 +44,7 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [顺时针打印矩阵][19]
 
-[包含min函数的栈]
+[包含min函数的栈][20]
 
 [栈的压入、弹出序列]
 
@@ -75,4 +75,4 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [17]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md
   [18]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md
   [19]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md
-  
+  [20]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md
