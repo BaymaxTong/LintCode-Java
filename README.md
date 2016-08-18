@@ -38,7 +38,7 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 [合并两个排序的链表][16]
 
-[树的子结构]
+[树的子结构][17]
 
 [二叉树的镜像]
 
@@ -72,4 +72,4 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [14]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md
   [15]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md
   [16]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md
-  
+  [17]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md
