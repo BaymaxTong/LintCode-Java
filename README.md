@@ -76,3 +76,45 @@ LintCode题解（Java版）------剑指offer题解（Java版）
   [18]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md
   [19]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md
   [20]: https://github.com/BaymaxTong/LintCode-Java/blob/master/JSoffer/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md
+
+
+## LeetCode-Java 。题解
+
+##每日编程训练练习，及时阻止老年痴呆
+
+[1. Two Sum](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/1.%20Two%20Sum.md)
+
+[2. Add Two Numbers](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/2.%20Add%20Two%20Numbers.md)
+
+[3. Longest Substring Without Repeating Characters](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+
+
+
+[7. Reverse Integer](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/7.%20Reverse%20Integer.md)
+
+[9. Palindrome Number](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/9.%20Palindrome%20Number.md)
+
+
+
+[13. Roman to Integer](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/13.%20Roman%20to%20Integer.md)
+
+[14. Longest Common Prefix](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/14.%20Longest%20Common%20Prefix.md)
+
+
+
+
+[20. Valid Parentheses](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/20.%20Valid%20Parentheses.md)
+
+[21. Merge Two Sorted Lists](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+
+
+[26. Remove Duplicates from Sorted Array](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+
+[27. Remove Element](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/27.%20Remove%20Element.md)
+
+[28. Implement strStr()](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/28.%20Implement%20strStr().md)
+
+
+[35. Search Insert Position](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/35.%20Search%20Insert%20Position.md)
+
+[38. Count and Say](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/38.%20Count%20and%20Say.md)
