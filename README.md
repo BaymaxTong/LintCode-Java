@@ -82,39 +82,39 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 
 ##每日编程训练练习，及时阻止老年痴呆
 
-[1. Two Sum](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/1.%20Two%20Sum.md)
+[1. Two Sum](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/1.%20Two%20Sum.md)
 
-[2. Add Two Numbers](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/2.%20Add%20Two%20Numbers.md)
+[2. Add Two Numbers](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/2.%20Add%20Two%20Numbers.md)
 
-[3. Longest Substring Without Repeating Characters](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-
-
-
-[7. Reverse Integer](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/7.%20Reverse%20Integer.md)
-
-[9. Palindrome Number](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/9.%20Palindrome%20Number.md)
+[3. Longest Substring Without Repeating Characters](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 
 
-[13. Roman to Integer](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/13.%20Roman%20to%20Integer.md)
+[7. Reverse Integer](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/7.%20Reverse%20Integer.md)
 
-[14. Longest Common Prefix](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/14.%20Longest%20Common%20Prefix.md)
-
-
+[9. Palindrome Number](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/9.%20Palindrome%20Number.md)
 
 
-[20. Valid Parentheses](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/20.%20Valid%20Parentheses.md)
 
-[21. Merge Two Sorted Lists](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+[13. Roman to Integer](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/13.%20Roman%20to%20Integer.md)
 
-
-[26. Remove Duplicates from Sorted Array](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
-
-[27. Remove Element](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/27.%20Remove%20Element.md)
-
-[28. Implement strStr()](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/28.%20Implement%20strStr().md)
+[14. Longest Common Prefix](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/14.%20Longest%20Common%20Prefix.md)
 
 
-[35. Search Insert Position](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/35.%20Search%20Insert%20Position.md)
 
-[38. Count and Say](https://github.com/BaymaxTong/LeetCode-Java/blob/master/LeetCode/38.%20Count%20and%20Say.md)
+
+[20. Valid Parentheses](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/20.%20Valid%20Parentheses.md)
+
+[21. Merge Two Sorted Lists](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/21.%20Merge%20Two%20Sorted%20Lists.md)
+
+
+[26. Remove Duplicates from Sorted Array](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+
+[27. Remove Element](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/27.%20Remove%20Element.md)
+
+[28. Implement strStr()](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/28.%20Implement%20strStr().md)
+
+
+[35. Search Insert Position](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/LeetCode/35.%20Search%20Insert%20Position.md)
+
+[38. Count and Say](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/38.%20Count%20and%20Say.md)
