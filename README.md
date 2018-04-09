@@ -115,6 +115,6 @@ LintCode题解（Java版）------剑指offer题解（Java版）
 [28. Implement strStr()](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/28.%20Implement%20strStr().md)
 
 
-[35. Search Insert Position](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/LeetCode/35.%20Search%20Insert%20Position.md)
+[35. Search Insert Position](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/35.%20Search%20Insert%20Position.md)
 
 [38. Count and Say](https://github.com/BaymaxTong/LintCode-Java/tree/master/LeetCode/38.%20Count%20and%20Say.md)
